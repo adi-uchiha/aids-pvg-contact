@@ -2,7 +2,7 @@ const Linkedin = () => {
   return (
     <svg
       className="hover:fill-[#0077b7] transition-all duration-300 ease-in-out 
-      cursor-pointer w-8 h-8"
+      cursor-pointer w-[2.5rem] h-[2.5rem]"
       xmlns="http://www.w3.org/2000/svg"
       width="512"
       height="512"
