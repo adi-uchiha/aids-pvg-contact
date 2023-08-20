@@ -1,7 +1,7 @@
 const Instagram = () => {
   return (
     <svg
-    className="hover:fill-[#d52162] transition-all duration-300 ease-in-out cursor-pointer w-12 h-12"
+    className="hover:fill-[#d52162] transition-all duration-300 ease-in-out cursor-pointer w-10 h-10"
     xmlns="http://www.w3.org/2000/svg"
     width="512"
     height="512"
