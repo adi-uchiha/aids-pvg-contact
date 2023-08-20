@@ -4,7 +4,7 @@ import PersonCard from "@/components/PersonCard";
 export default function Home() {
   return (
     <div>
-      <PersonCard user={MemberObject[1]}/> 
+      <PersonCard user={MemberObject[2]}/> 
     </div>
   )
 }
