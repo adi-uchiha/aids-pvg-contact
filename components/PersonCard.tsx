@@ -28,9 +28,11 @@ const PersonCard = ({ user }: SingleUserProps) => {
         </div>
       </div>
       <p className="pl-10 pr-10 font-normal">
-        &quot; Dedicated member of our vibrant club team, passionately contributing to our collective goals. Bringing unique skills and enthusiasm, I thrive on collaboration and creative problem-solving. Committed to fostering a welcoming environment while achieving exceptional results together. &quot;
+        &quot;
+        {user.about} 
+        &quot;
       </p>
-      <div className="flex flex-row space-x-10 w-full align-middle justify-between pl-20 pr-20 pt-6 mb-8">
+      <div className="flex flex-row w-full align-middle justify-between pl-[8vw] pr-[8vw] pt-6 mb-8">
         <Instagram />
         <Linkedin />
         <Email />
