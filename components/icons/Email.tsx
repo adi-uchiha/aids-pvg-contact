@@ -1,7 +1,7 @@
 const Email = () => {
   return (
     <svg
-    className="hover:fill-[#f34336] transition-all duration-300 ease-in-out cursor-pointer w-10 h-10"
+    className="hover:fill-[#ed6f66] transition-all duration-300 ease-in-out cursor-pointer w-10 h-10"
       xmlns="http://www.w3.org/2000/svg"
       width="512"
       height="512"

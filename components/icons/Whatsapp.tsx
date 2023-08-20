@@ -1,7 +1,7 @@
 const Whatsapp = () => {
   return (
     <svg
-    className="hover:fill-[#43ba54] transition-all duration-300 ease-in-out cursor-pointer w-10 h-10"
+    className="hover:fill-[#60b86d] transition-all duration-300 ease-in-out cursor-pointer w-10 h-10"
       xmlns="http://www.w3.org/2000/svg"
       width="512"
       height="512"

@@ -1,7 +1,7 @@
 const Linkedin = () => {
   return (
     <svg
-      className="hover:fill-[#0077b7] transition-all duration-300 ease-in-out 
+      className="hover:fill-[#4591ba] transition-all duration-300 ease-in-out 
       cursor-pointer w-10 h-10"
       xmlns="http://www.w3.org/2000/svg"
       width="512"
