@@ -18,7 +18,7 @@ interface SingleUserProps {
 
 const PersonCard = ({ user }: SingleUserProps) => {
   return (
-    <div className="rounded-xl w-[96vw] m-[2vw] border-[#C8C8C8] border-[1.5px] shadow-md bg-gradient-to-tl from-gray-200 to-slate-50">
+    <div className="rounded-2xl w-[96vw] m-[2vw] border-[#C8C8C8] border-[1.5px] shadow-md bg-gradient-to-tl from-[#fff] to-[#c7e8ff]">
       <div className="p-3 flex flex-row items-center">
         <Image className="rounded-full w-20 h-20" src="/profile-pic.webp" alt="picture" width={180} height={180} />
         <div className="flex flex-col pl-[2vw]">
@@ -26,14 +26,14 @@ const PersonCard = ({ user }: SingleUserProps) => {
           <span className="italic font-light">Designation</span>
         </div>
       </div>
-      <p className="p-3 font-normal">
+      <p className="pl-10 pr-10 font-normal">
         &quot; Dedicated member of our vibrant club team, passionately contributing to our collective goals. Bringing unique skills and enthusiasm, I thrive on collaboration and creative problem-solving. Committed to fostering a welcoming environment while achieving exceptional results together. &quot;
       </p>
-      <div className="flex flex-row space-x-10 w-full align-middle justify-center p-4 mb-2">
+      <div className="flex flex-row space-x-10 w-full align-middle justify-between pl-20 pr-20 p-5 mb-2">
         <Instagram />
         <Linkedin />
-        <Whatsapp />
         <Email />
+        <Whatsapp />
       </div>
     </div>
   )
