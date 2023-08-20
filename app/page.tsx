@@ -1,5 +1,6 @@
 import MemberObject from "@/components/MemberData";
 import PersonCard from "@/components/PersonCard";
+import Title from "@/components/Title";
 
 // 
 export default function Home() {
@@ -17,27 +18,27 @@ Parth lokhande
 Ayushi
 Vaishnavi
 Rugved */}
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>General Secretary</span>
 
+      <Title title={"General Secretary"} />
       <PersonCard user={MemberObject[1]} />
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Joint Secretary</span>
+      <Title title="Joint Secretary" />
       <PersonCard user={MemberObject[2]} />
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Treasurers</span>
+      <Title title={"Treasurers"} />
       <PersonCard user={MemberObject[4]} />
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Technical</span>
+      <Title title={"Technical"} />
       <PersonCard user={MemberObject[5]} />
       <PersonCard user={MemberObject[6]} />
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Design</span>
+      <Title title={"Design"} />
       <PersonCard user={MemberObject[8]} />
       <PersonCard user={MemberObject[9]} />
-
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Production</span>
+      <Title title={"Production"} />
       <PersonCard user={MemberObject[10]} />
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Event</span>
+      <Title title={"Event"} />
       <PersonCard user={MemberObject[11]} />
-      <span className={`flex w-full justify-center text-5xl text-white font-bold`}>Notification</span>
+      <Title title={"Notification"} />
       <PersonCard user={MemberObject[11]} />
       <PersonCard user={MemberObject[7]} />
+
     </div>
   )
 }

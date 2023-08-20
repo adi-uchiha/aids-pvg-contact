@@ -24,8 +24,8 @@ const PersonCard = ({ user }: SingleUserProps) => {
       <div className="p-8 pl-10 flex flex-row items-center">
         <Image className="rounded-full w-24 h-24" src={"/"+user.firstName + user.lastName + ".webp"} alt="picture" width={180} height={180} />
         <div className="flex flex-col pl-[2vw]">
-          <span className="font-semibold text-[1.8rem] text-white">{user.firstName} {user.lastName}</span>
-          <span className=" font-light text-[1.2rem] text-white">{user.designation}</span>
+          <span className="font-semibold text-[1.5rem] text-white">{user.firstName} {user.lastName}</span>
+          <span className=" font-light text-[1rem] text-white">{user.designation}</span>
         </div>
       </div>
       <p className="pl-10 pr-10 font-normal text-white">
