@@ -22,8 +22,6 @@ const MemberObject = {
     email: "jaswandishinde21@gmail.com"
   },
 
-  3 : {},
-
   4: {
     firstName: "Sarang",
     lastName: "Shelke",
@@ -71,10 +69,10 @@ const MemberObject = {
   8 : {
     firstName: "Vedant",
     lastName: "Lodha",
-    designation: "Design and Production Head",
-    about: "I am cool",
+    designation: "Design Head",
+    about: "Creative Design Head, transforming concepts into captivating visuals. Leading with artistic vision, I collaborate to craft compelling designs. Committed to merging innovation with aesthetics, I contribute to our organization's visual identity. Let's bring imagination to life and leave a lasting impression through the power of design",
     instagram: "https://www.instagram.com/its_ved_1893",
-    whatsapp: "https://wa.me/+91",
+    whatsapp: "https://wa.me/+919404604251",
     linkedin: "https://www.linkedin.com/in/vedant-lodha-9316a925a/",
     email: "21118044@pvgcoet.ac.in"
   }
@@ -83,7 +81,7 @@ const MemberObject = {
   9: {
     firstName: "Om",
     lastName: "Kasurde",
-    designation: "Co-Head Design Team",
+    designation: "Design Co-Head",
     about: "As a Design Team Co-Head, I actively shape creativity and vision. Collaborating within our team, I help conceptualize and execute visual projects. Through innovative thinking, I contribute to enhancing our club's aesthetic and impact, creating visually compelling experiences that resonate with our audience and support our collective objectives.",
     instagram: "https://www.instagram.com/mr_om_4772",
     whatsapp: "https://wa.me/+919767680839",
@@ -117,12 +115,47 @@ const MemberObject = {
   firstName: "Vaishnavee",
   lastName: "Sanam",
   designation: "Notification Head",
-  about: "I am cool",
+  about: "Dedicated Notification Head, ensuring seamless communication. Strategically leading a proficient team, I drive timely updates and engagement strategies. Committed to enhancing connectivity, I keep our members informed and engaged, advancing our collective goals. Let's foster effective communication and propel our community forward",
   instagram: "",
-  whatsapp: "https://wa.me/+91",
+  whatsapp: "https://wa.me/+917387311419",
   linkedin: "www.linkedin.com/in/va-s-196464284",
   email: "v.saanamgvp21@gmail.com"
+},
+
+13: {
+  firstName: "Shivendra",
+  lastName: "Pol",
+  designation: "Treasurer head",
+  about: "Experienced Head Treasurer, meticulously managing financial integrity. Steering budgeting and resource allocation, I ensure fiscal stability. Committed to transparency, I lead with precision, sustaining our organization's financial foundation. Let's navigate the financial landscape together and drive our shared success.",
+  instagram: "",
+  whatsapp: "https://wa.me/+918669050536",
+  linkedin: "https://www.linkedin.com/in/shivendra-pol-26b6b6287/",
+  email: ""
+},
+
+14 : {
+  firstName: "Monisha",
+  lastName: "Arora",
+  designation: "Web Team Head",
+  about: "Web Team Head, shaping digital experiences with expertise. Leading a dynamic team, I drive web projects from concept to reality. Committed to seamless functionality and aesthetics, I contribute to our organization's online presence. Let's navigate the digital landscape together and create impactful virtual journeys",
+  instagram: "https://www.instagram.com/monishaarora8770/",
+  whatsapp: "https://wa.me/+917028729724",
+  linkedin: "https://www.linkedin.com/in/monisha-arora-82864a229",
+  email: "monishaarora8770@gmail.com"
+},
+
+15: {
+  firstName: "Akash",
+  lastName: "Pandit",
+  designation: "Web Team Co-Head",
+  about: "As Web Team Co-Head, I contribute to dynamic digital experiences. Collaborating within our team, I help shape and execute web projects. Through innovative thinking, I enhance our online presence, creating user-friendly interfaces. Let's work together to weave creativity and functionality into the fabric of our virtual space",
+  instagram: "https://www.instagram.com/panditakash38/",
+  whatsapp: "https://wa.me/+917410178003",
+  linkedin: "https://www.linkedin.com/in/panditakash38/",
+  email: "21118042@pvgcoet.ac.in"
 }
+
+
 
 
   

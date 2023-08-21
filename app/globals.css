@@ -7,6 +7,11 @@
 
 :root {
   background-color: rgb(26, 26, 26);
+
+}
+body {
+  /* max-width: 720px; */
+  
 }
 
 .user_designation{
