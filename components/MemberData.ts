@@ -5,7 +5,7 @@ const MemberObject = {
     designation: "General Secretary",
     about: "As the General Secretary, I meticulously manage club operations, communication, and coordination. My adept organizational skills ensure seamless execution of tasks and efficient information flow. Dedicated to fostering unity, I am devoted to enhancing member engagement and driving the club's success through effective leadership and administration",
     instagram: "https://www.instagram.com/anshulraibole/",
-    whatsapp: "https://wa.me/+917499695286",
+    whatsapp: "https://wa.me/+917020584746",
     linkedin: "https://www.linkedin.com/in/anshulraibole",
     email: "anshulraibole2003@gmail.com",
 
