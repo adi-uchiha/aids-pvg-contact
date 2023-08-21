@@ -22,7 +22,7 @@ const PersonCard = ({ user }: SingleUserProps) => {
   return (
     <div className="max-w-screen-sm rounded-lg w-[96vw] m-[2vw] bg-gradient-to-tl from-[#1a1a1a] to-stone-800">
       <div className="pt-5 pb-2  pl-10 flex flex-row items-top">
-        <Image className="rounded-md w-24 h-24" src={"/"+user.firstName + user.lastName + ".webp"} alt="picture" width={180} height={180} />
+        <Image className="rounded-md w-24 h-24" src={"/"+user.firstName+user.lastName+".webp"} alt="picture" width={180} height={180} />
         <div className="flex flex-col pl-[2vw]">
           <span className="font-semibold text-[1.5rem] text-white">{user.firstName} {user.lastName}</span>
           <div className="user_designation bg-emerald-500 mt-2">

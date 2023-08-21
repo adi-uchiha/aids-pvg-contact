@@ -1,3 +1,4 @@
+import LinkBar from "@/components/LinkBar";
 import MemberObject from "@/components/MemberData";
 import PersonCard from "@/components/PersonCard";
 import Title from "@/components/Title";
@@ -6,6 +7,12 @@ import Title from "@/components/Title";
 export default function Home() {
   return (
     <div className="flex flex-col lg:items-center">
+      <div className="space-y-6">
+        <LinkBar link=" https://youtu.be/biUc9BVwhk8" type="youtube" />
+        <LinkBar link="https://www.linkedin.com/company/aideas-pvg/" type="linkedin" />
+        <LinkBar link="https://instagram.com/aideas_pvg" type="instagram" />
+
+      </div>
       <Title title={"General Secretary"} />
       <PersonCard user={MemberObject[1]} />
       <Title title="Joint Secretary" />
