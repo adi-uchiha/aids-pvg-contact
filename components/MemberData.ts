@@ -24,7 +24,7 @@ const MemberObject = {
 
   5 : {
     firstName: "Prasad",
-    lastName: "Pingle",
+    lastName: "Pingale",
     designation: "Technical Team head",
     about: "As the Technical Team Head, I steer innovation with expertise. Orchestrating cutting-edge projects, I lead a dynamic team in crafting solutions that transcend challenges. Through strategic thinking and technical prowess, I drive our club's technical pursuits, fostering growth, learning, and impactful contributions within a rapidly evolving landscape.",
     instagram: "",

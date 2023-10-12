@@ -11,6 +11,7 @@ export default function Home() {
         <LinkBar link=" https://youtu.be/biUc9BVwhk8" type="youtube" />
         <LinkBar link="https://www.linkedin.com/company/aideas-pvg/" type="linkedin" />
         <LinkBar link="https://instagram.com/aideas_pvg" type="instagram" />
+        <LinkBar link="https://chat.whatsapp.com/HLhZxXG7F1WLvUQ39eVc31" type="whatsapp" />
 
       </div>
       <Title title={"General Secretary"} />

@@ -3,7 +3,7 @@ import Link from "next/link"
 
 interface LinkBarProps {
   link: string,
-  type: "linkedin" | "instagram" | "youtube"
+  type: "linkedin" | "instagram" | "youtube" | "whatsapp"
 }
 
 const LinkBar = ({ link, type }: LinkBarProps) => {
