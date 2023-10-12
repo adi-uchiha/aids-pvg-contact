@@ -134,37 +134,18 @@ const MemberObject = {
 },
 
 14 : {
-  firstName: "Monisha",
-  lastName: "Arora",
+  firstName: "Aditya",
+  lastName: "Shelke",
   designation: "Web Team Head",
   about: "Web Team Head, shaping digital experiences with expertise. Leading a dynamic team, I drive web projects from concept to reality. Committed to seamless functionality and aesthetics, I contribute to our organization's online presence. Let's navigate the digital landscape together and create impactful virtual journeys",
-  instagram: "https://www.instagram.com/monishaarora8770/",
-  whatsapp: "https://wa.me/+917028729724",
-  linkedin: "https://www.linkedin.com/in/monisha-arora-82864a229",
-  email: "monishaarora8770@gmail.com"
+  instagram: "https://www.instagram.com/adityashelke0702/",
+  whatsapp: "https://wa.me/+917499695286",
+  linkedin: "https://www.linkedin.com/in/aditya-shelke-242507221/",
+  email: "21118033@pvgcoet.ac.in"
 },
 
-15: {
-  firstName: "Akash",
-  lastName: "Pandit",
-  designation: "Web Team Co-Head",
-  about: "As Web Team Co-Head, I contribute to dynamic digital experiences. Collaborating within our team, I help shape and execute web projects. Through innovative thinking, I enhance our online presence, creating user-friendly interfaces. Let's work together to weave creativity and functionality into the fabric of our virtual space",
-  instagram: "https://www.instagram.com/panditakash38/",
-  whatsapp: "https://wa.me/+917410178003",
-  linkedin: "https://www.linkedin.com/in/panditakash38/",
-  email: "21118042@pvgcoet.ac.in"
-}
 
 
-
-
-  
-  
-  
-  
-  
-  
-  
 
 
 }

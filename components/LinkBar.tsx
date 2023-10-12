@@ -9,7 +9,7 @@ interface LinkBarProps {
 const LinkBar = ({ link, type }: LinkBarProps) => {
   return (
     <Link href={link}>
-      <div className="w-90% h-16 m-8 rounded-full hover:from-[#0b0b0b]
+      <div className="w-90% h-16 m-8 rounded-full hover:from-[#0b0b0b] shadow-inner
       bg-gradient-to-tr from-[#121212] to-[#292828] border-[1px] cursor-pointer
      flex flex-row justify-center items-center">
         <div className="w-12 h-12 z-10">
