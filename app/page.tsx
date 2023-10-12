@@ -28,7 +28,7 @@ export default function Home() {
       <PersonCard user={MemberObject[10]} />
       <Title title={"Web Team"} />
       <PersonCard user={MemberObject[14]} />
-      <Title title={"Event Team"} />
+      <Title title={"Event Team"}  />
       <PersonCard user={MemberObject[11]} />
       <Title title={"Editorial and Notification Team"} />
       <PersonCard user={MemberObject[12]} />
