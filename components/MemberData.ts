@@ -22,71 +22,27 @@ const MemberObject = {
     email: "jaswandishinde21@gmail.com"
   },
 
-  4: {
-    firstName: "Sarang",
-    lastName: "Shelke",
-    designation: "Joint Treasurer",
-    about: "As Joint Treasurer, I conscientiously uphold our club's financial integrity. With meticulous attention, I manage accounts, budgeting, and fiscal planning. Collaboratively ensuring prudent resource allocation, I contribute to our club's sustainability and growth. Committed to transparency, I strive to maintain a strong financial foundation for our shared aspirations.",
-    instagram: "https://www.instagram.com/sarang2304/",
-    whatsapp: "https://wa.me/+917020577028",
-    linkedin: "https://www.linkedin.com/in/sarang-shelke-827bb3256",
-    email: "21118038@pvgcoet.ac.in"
-  },
-
   5 : {
-    firstName: "Raj",
-    lastName: "Kanchan",
-    designation: "Technical team head",
+    firstName: "Prasad",
+    lastName: "Pingle",
+    designation: "Technical Team head",
     about: "As the Technical Team Head, I steer innovation with expertise. Orchestrating cutting-edge projects, I lead a dynamic team in crafting solutions that transcend challenges. Through strategic thinking and technical prowess, I drive our club's technical pursuits, fostering growth, learning, and impactful contributions within a rapidly evolving landscape.",
-    instagram: "https://www.instagram.com/rajberry.pi",
-    whatsapp: "https://wa.me/+919021962126",
-    linkedin: "https://www.linkedin.com/in/raj-kanchan-604965242",
-    email: "21118047@pvgcoet.ac.in"
+    instagram: "",
+    whatsapp: "https://wa.me/+918412957676",
+    linkedin: "https://www.linkedin.com/in/prasad-pingale-310341228",
+    email: " prasadpingale24@gmail.com"
   },
 
-  6: {
-    firstName: "Parth",
-    lastName: "Deshmukh",
-    designation: "Technical Co-Head",
-    about: "As a Technical Team Co-Head, I play a pivotal role in driving innovation and expertise. Collaboratively leading projects, I contribute to crafting impactful solutions within our dynamic team. Through strategic thinking and collaborative effort, I help steer our club's technical endeavors, fostering growth in an ever-evolving landscape.",
-    instagram: "https://instagram.com/parth_d3?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
-    whatsapp: "https://wa.me/+917887520098",
-    linkedin: "https://instagram.com/parth_d3?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
-    email: "parthd7122@gmail.com"
-  },
-
-  7: {
-    firstName: "Rugved",
-    lastName: "Joshi",
-    designation: "Notification Team co head",
-    about: "In my role as Notification Team Head, I ensure seamless communication. Leading a proficient team, I oversee timely updates and engagement strategies. Through strategic planning and collaboration, I enhance our club's connectivity, ensuring members stay informed and engaged, while collectively advancing our shared goals",
-    instagram: "https://instagram.com/r_u.g_v.e_d?",
-    whatsapp: "https://wa.me/+919689831337",
-    linkedin: "https://www.linkedin.com/in/rugved-joshi-954a9b22a",
-    email: "rugvedsamruddhi@gmail.com"
-  },
 
   8 : {
     firstName: "Vedant",
     lastName: "Lodha",
-    designation: "Design Head",
+    designation: "Design Team Head",
     about: "Creative Design Head, transforming concepts into captivating visuals. Leading with artistic vision, I collaborate to craft compelling designs. Committed to merging innovation with aesthetics, I contribute to our organization's visual identity. Let's bring imagination to life and leave a lasting impression through the power of design",
     instagram: "https://www.instagram.com/its_ved_1893",
     whatsapp: "https://wa.me/+919404604251",
     linkedin: "https://www.linkedin.com/in/vedant-lodha-9316a925a/",
     email: "21118044@pvgcoet.ac.in"
-  }
-  ,
-
-  9: {
-    firstName: "Om",
-    lastName: "Kasurde",
-    designation: "Design Co-Head",
-    about: "As a Design Team Co-Head, I actively shape creativity and vision. Collaborating within our team, I help conceptualize and execute visual projects. Through innovative thinking, I contribute to enhancing our club's aesthetic and impact, creating visually compelling experiences that resonate with our audience and support our collective objectives.",
-    instagram: "https://www.instagram.com/mr_om_4772",
-    whatsapp: "https://wa.me/+919767680839",
-    linkedin: "https://www.linkedin.com/in/om-kasurde-50351b242",
-    email: "omkasurde14@gmail.com"
   },
 
   10: {
@@ -101,31 +57,32 @@ const MemberObject = {
   },
 
   11: {
-  firstName: "Ayushi",
-  lastName: "Chougule",
+  firstName: "Divija",
+  lastName: "Kulkarni",
   designation: "Event Team Head",
   about: "Committed Event Team Head, focused on creating unforgettable experiences. Guiding a skilled team, I ensure flawless event execution, making moments truly remarkable. Let's collaborate to craft exceptional memories that resonate and transform ideas into extraordinary realities",
-  instagram: "https://www.instagram.com/ayushi_chougule07/",
-  whatsapp: "https://wa.me/+918799900453",
-  linkedin: "https://www.linkedin.com/in/ayushi-chougule",
-  email: "ayushichougule@gmail.com"
+  instagram: "https://www.instagram.com/divijaaa.pk/",
+  whatsapp: "https://wa.me/+919823321067",
+  linkedin: "www.linkedin.com/in/divija-kulkarni-0a8860254",
+  email: "21018010@pvgcoet.ac.in"
 },
+
 
 12 : {
   firstName: "Vaishnavee",
   lastName: "Sanam",
-  designation: "Notification Head",
+  designation: "Editorial & Notification Team Head",
   about: "Dedicated Notification Head, ensuring seamless communication. Strategically leading a proficient team, I drive timely updates and engagement strategies. Committed to enhancing connectivity, I keep our members informed and engaged, advancing our collective goals. Let's foster effective communication and propel our community forward",
   instagram: "",
   whatsapp: "https://wa.me/+917387311419",
-  linkedin: "www.linkedin.com/in/va-s-196464284",
+  linkedin: "https://www.linkedin.com/in/va-s-196464284/",
   email: "v.saanamgvp21@gmail.com"
 },
 
 13: {
   firstName: "Shivendra",
   lastName: "Pol",
-  designation: "Treasurer head",
+  designation: "Treasurer Team head",
   about: "Experienced Head Treasurer, meticulously managing financial integrity. Steering budgeting and resource allocation, I ensure fiscal stability. Committed to transparency, I lead with precision, sustaining our organization's financial foundation. Let's navigate the financial landscape together and drive our shared success.",
   instagram: "",
   whatsapp: "https://wa.me/+918669050536",

@@ -17,25 +17,20 @@ export default function Home() {
       <PersonCard user={MemberObject[1]} />
       <Title title="Joint Secretary" />
       <PersonCard user={MemberObject[2]} />
-      <Title title={"Treasurers"} />
+      <Title title={"Treasurer"} />
       <PersonCard user={MemberObject[13]} />
-      <PersonCard user={MemberObject[4]} />
-      <Title title={"Technical"} />
+      <Title title={"Technical Team"} />
       <PersonCard user={MemberObject[5]} />
-      <PersonCard user={MemberObject[6]} />
-      <Title title={"Design"} />
+      <Title title={"Design Team"} />
       <PersonCard user={MemberObject[8]} />
-      <PersonCard user={MemberObject[9]} />
-      <Title title={"Production"} />
+      <Title title={"Production Team"} />
       <PersonCard user={MemberObject[10]} />
-      <Title title={"Web"} />
+      <Title title={"Web Team"} />
       <PersonCard user={MemberObject[14]} />
-      <PersonCard user={MemberObject[15]} />
-      <Title title={"Event"} />
+      <Title title={"Event Team"} />
       <PersonCard user={MemberObject[11]} />
-      <Title title={"Notification"} />
+      <Title title={"Editorial and Notification"} />
       <PersonCard user={MemberObject[12]} />
-      <PersonCard user={MemberObject[7]} />
 
     </div>
   )
