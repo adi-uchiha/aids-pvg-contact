@@ -32,6 +32,8 @@ export default function Home() {
       <PersonCard user={MemberObject[11]} />
       <Title title={"Editorial and Notification Team"} />
       <PersonCard user={MemberObject[12]} />
+      <Title title={"Marketing Team"} />
+      <PersonCard user={MemberObject[15]} />
 
     </div>
   )

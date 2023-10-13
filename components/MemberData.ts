@@ -101,6 +101,16 @@ const MemberObject = {
   email: "21118033@pvgcoet.ac.in"
 },
 
+15 : {
+  firstName: "Gayatri",
+  lastName: "Ambekar",
+  designation: "Marketing Head",
+  about: "I steer marketing initiatives from inception to achievement. Devoted to blending strategy and creativity, I enhance our club's brand influence. Join me in charting a course through the marketing realm, and let's craft compelling brand narratives together",
+  instagram: "https://www.instagram.com/gayatrii_.14/",
+  whatsapp: "https://wa.me/+919665570639",
+  linkedin: "https://www.linkedin.com/in/gayatri-ambekar/", 
+  email: "gayatriambekar14@gmail.com"
+}
 
 
 
