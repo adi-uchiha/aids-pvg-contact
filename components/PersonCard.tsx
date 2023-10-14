@@ -45,9 +45,9 @@ const PersonCard = ({ user }: SingleUserProps) => {
         </Link>
       </div>
       <p className="pl-10 pb-10 pr-10 font-normal text-white">
-        {user.about ? "&quot;" : null}
+        &quot;
         {user.about}
-        {user.about ? "&quot;" : null}
+        &quot;
       </p>
     </div>
   )
