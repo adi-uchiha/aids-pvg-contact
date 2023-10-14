@@ -110,11 +110,78 @@ const MemberObject = {
   whatsapp: "https://wa.me/+919665570639",
   linkedin: "https://www.linkedin.com/in/gayatri-ambekar/", 
   email: "gayatriambekar14@gmail.com"
-}
+},
 
+ 16: {
+  firstName: "Vynktesh",
+  lastName: "Mande",
+  designation: "Web Co-Head",
+  instagram: "https://www.instagram.com/gayatrii_.14/",
+  whatsapp: "https://wa.me/+919579093842",
+  linkedin: "https://www.linkedin.com/in/vynktesh-mande-187ab421b/", 
+  email: "vynkteshmande45@gmail.com"
+ }, 
 
+ 17: {
+  firstName: "Suryaja",
+  lastName: "Angadi",
+  designation: "Event Co-Head",
+  instagram: "https://www.instagram.com/suryaja_._/",
+  whatsapp: "https://wa.me/+917447789998",
+  linkedin: "", 
+  email: "suryaja.angadi123@gmail.com"
+ }, 
 
+ 18: {
+  firstName: "Nishikant",
+  lastName: "Toshniwal",
+  designation: "Marketing Co-Head",
+  instagram: "https://www.instagram.com/nishikant.1119",
+  whatsapp: "https://wa.me/+918788334133",
+  linkedin: "https://www.linkedin.com/in/nishikant-toshniwal-414403259/", 
+  email: "nishikanttoshniwal913@gmail.com"
+ }, 
 
+ 19: {
+  firstName: "Vedika",
+  lastName: "Thorat",
+  designation: " Editorial & Notification Team Co-head",
+  instagram: "https://www.instagram.com/vedikathorat08",
+  whatsapp: "https://wa.me/+918626026607",
+  linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
+  email: "vedikathorat08@gmail.com"
+ }, 
+
+ 20: {
+  firstName: "Diyashree",
+  lastName: "Devadiga",
+  designation: " Design Co-head",
+  instagram: "https://www.instagram.com/diiysh_",
+  whatsapp: "https://wa.me/+918446440248",
+  linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
+  email: "diya.shree16@yahoo.com"
+ }, 
+ 
+ 21: {
+  firstName: "Atharva",
+  lastName: "Nikhade",
+  designation: "Video production co-head",
+  instagram: "https://instagram.com/atharvv__94",
+  whatsapp: "https://wa.me/+918767140578",
+  linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
+  email: "atharvanikhade007@gmail.com"
+ }, 
+
+ 22: {
+  firstName: "Yash",
+  lastName: "Gujar",
+  designation: "Technical Co-Head",
+  instagram: "https://instagram.com/yash_gujar",
+  whatsapp: "https://wa.me/+919309881478",
+  linkedin: "https://www.linkedin.com/in/yash-gujar-3ba130261", 
+  email: "yashgujar433@gmail.com"
+ }, 
+ 
 }
 
 export default MemberObject
