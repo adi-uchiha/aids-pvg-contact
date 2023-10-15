@@ -115,7 +115,8 @@ const MemberObject = {
  16: {
   firstName: "Vynktesh",
   lastName: "Mande",
-  designation: "Web Co-Head",
+  designation: "Web team co-Head",
+  about: "As the co-head of the web team, I'm passionate about crafting seamless digital experiences that resonate with our club's values and goals. With a focus on user-centric design and technical expertise",
   instagram: "https://www.instagram.com/gayatrii_.14/",
   whatsapp: "https://wa.me/+919579093842",
   linkedin: "https://www.linkedin.com/in/vynktesh-mande-187ab421b/", 
@@ -125,7 +126,8 @@ const MemberObject = {
  17: {
   firstName: "Suryaja",
   lastName: "Angadi",
-  designation: "Event Co-Head",
+  designation: "Event team co-Head",
+  about: "As the co-head of the event team, I am dedicated to orchestrating memorable and successful club gatherings. My role involves organizing logistics, collaborating with team members, and ensuring each event aligns with our club's mission.",
   instagram: "https://www.instagram.com/suryaja_._/",
   whatsapp: "https://wa.me/+917447789998",
   linkedin: "", 
@@ -135,7 +137,8 @@ const MemberObject = {
  18: {
   firstName: "Nishikant",
   lastName: "Toshniwal",
-  designation: "Marketing Co-Head",
+  designation: "Marketing team co-Head",
+  about: "As the Marketing Co Head, I am responsible for developing, implementing and executing strategic marketing plans for our  Association in order to attract potential customers and retain existing ones. I with my expeditious marketing skills use it for developing, setting goals, and ensuring consistent brand messaging across various marketing channels",
   instagram: "https://www.instagram.com/nishikant.1119",
   whatsapp: "https://wa.me/+918788334133",
   linkedin: "https://www.linkedin.com/in/nishikant-toshniwal-414403259/", 
@@ -145,7 +148,8 @@ const MemberObject = {
  19: {
   firstName: "Vedika",
   lastName: "Thorat",
-  designation: " Editorial & Notification Team Co-head",
+  designation: "Editorial & Notification team co-head",
+  about: "In my role as co-head of the Editorial and Notification team, I oversee the creation of engaging content and the dissemination of important updates. We work together to produce insightful articles, newsletters, and timely notifications to keep our club members informed and engaged",
   instagram: "https://www.instagram.com/vedikathorat08",
   whatsapp: "https://wa.me/+918626026607",
   linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
@@ -155,7 +159,8 @@ const MemberObject = {
  20: {
   firstName: "Diyashree",
   lastName: "Devadiga",
-  designation: " Design Co-head",
+  designation: "Design team co-head",
+  about: "As a co-head of the Design team, I lead our creative endeavors in crafting visual elements that communicate our club's identity. Collaborating with fellow designers, we strive to ensure our graphics, layouts, and branding align with our club's vision",
   instagram: "https://www.instagram.com/diiysh_",
   whatsapp: "https://wa.me/+918446440248",
   linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
@@ -165,7 +170,8 @@ const MemberObject = {
  21: {
   firstName: "Atharva",
   lastName: "Nikhade",
-  designation: "Video production co-head",
+  designation: "Production team co-head",
+  about: "As a co-head of the video and production team, I am passionate about creating compelling visual stories that captivate audiences.I bring a deep understanding of the creative process and the technical expertise required to bring ideas to life. Our team is dedicated to delivering high-quality content that exceeds expectations, whether it's for marketing campaigns, educational videos, or entertainment. We thrive on collaboration and innovation, striving to push the boundaries of visual storytelling",
   instagram: "https://instagram.com/atharvv__94",
   whatsapp: "https://wa.me/+918767140578",
   linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
@@ -175,7 +181,8 @@ const MemberObject = {
  22: {
   firstName: "Yash",
   lastName: "Gujar",
-  designation: "Technical Co-Head",
+  designation: "Technical team co-Head",
+  about: "As the Technical Co-Head, I lead with a passion for innovation and a flair for all things tech. I thrive on fostering a collaborative environment where creativity and technical prowess converge,  ensuring we stay at the forefront of advancements",
   instagram: "https://instagram.com/yash_gujar",
   whatsapp: "https://wa.me/+919309881478",
   linkedin: "https://www.linkedin.com/in/yash-gujar-3ba130261", 

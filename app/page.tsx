@@ -35,13 +35,13 @@ export default function Home() {
       <Title title={"Marketing Team"} />
       <PersonCard user={MemberObject[15]} />
       <Title title="Co-Heads" />
-      <PersonCard user={MemberObject[16]} />
-      <PersonCard user={MemberObject[17]} />
-      <PersonCard user={MemberObject[18]} />
-      <PersonCard user={MemberObject[19]} />
+      <PersonCard user={MemberObject[22]} />
       <PersonCard user={MemberObject[20]} />
       <PersonCard user={MemberObject[21]} />
-      <PersonCard user={MemberObject[22]} />
+      <PersonCard user={MemberObject[17]} />
+      <PersonCard user={MemberObject[19]} />
+      <PersonCard user={MemberObject[16]} />
+      <PersonCard user={MemberObject[18]} />
 
     </div>
   )
