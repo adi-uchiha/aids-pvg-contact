@@ -163,7 +163,7 @@ const MemberObject = {
   about: "As a co-head of the Design team, I lead our creative endeavors in crafting visual elements that communicate our club's identity. Collaborating with fellow designers, we strive to ensure our graphics, layouts, and branding align with our club's vision",
   instagram: "https://www.instagram.com/diiysh_",
   whatsapp: "https://wa.me/+918446440248",
-  linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
+  linkedin: "", 
   email: "diya.shree16@yahoo.com"
  }, 
  
@@ -174,7 +174,7 @@ const MemberObject = {
   about: "As a co-head of the video and production team, I am passionate about creating compelling visual stories that captivate audiences.I bring a deep understanding of the creative process and the technical expertise required to bring ideas to life. Our team is dedicated to delivering high-quality content that exceeds expectations, whether it's for marketing campaigns, educational videos, or entertainment. We thrive on collaboration and innovation, striving to push the boundaries of visual storytelling",
   instagram: "https://instagram.com/atharvv__94",
   whatsapp: "https://wa.me/+918767140578",
-  linkedin: "https://www.linkedin.com/in/vedika-thorat-abb34828b", 
+  linkedin: "", 
   email: "atharvanikhade007@gmail.com"
  }, 
 
